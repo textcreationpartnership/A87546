@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the people of England, souldiers, and others, more especially in and about the city of London the humble remonstrance of Edward Jenkes, Gent. on behalf of the Common-Wealth.</title>
+            <author>Jenkes, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87546</idno>
+            <idno type="STC">Wing J626</idno>
+            <idno type="STC">Thomason 669.f.14[62]</idno>
+            <idno type="STC">ESTC R211247</idno>
+            <idno type="EEBO-CITATION">99869977</idno>
+            <idno type="PROQUEST">99869977</idno>
+            <idno type="VID">163049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87546)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163049)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f14[62])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the people of England, souldiers, and others, more especially in and about the city of London the humble remonstrance of Edward Jenkes, Gent. on behalf of the Common-Wealth.</title>
+                  <author>Jenkes, Edward.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: London, Aug. 4. 1649. Signed: Edw: Jenkes.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "August 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lenthall, William, 1591-1662 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163049:1" rendition="simple:additions"/>
+            <head>To all the People of England, Souldiers, and others, more eſpecially in and about the City of <hi>LONDON;</hi>
+The humble REMONSTRANCE of <hi>Edward Jenkes,</hi> Gent. on behalf of the COMMON-WEALTH;</head>
+            <p>SHEWETH,</p>
+            <p>THat the honorable <hi>Houſe of Commons</hi> (deluded with a falſe and ſcandalous Report made by <hi>Laurence Whitaker,</hi> Eſquire, Chairman to the late <hi>Committee for Examinations,</hi> upon the 15. of <hi>Septemb.</hi> 1645.) did acquit <hi>William Lenthal,</hi> Eſquire, Speaker of the ſaid Houſe, from ſeveral notorious Treacheries, clearly proved againſt him before the ſaid <hi>Committe:</hi> And the ſaid Houſe (ſo deluded) did, about the time of the ſaid <hi>falſe Report,</hi> appoint a <hi>Committee</hi> to conſider what exemplary puniſhment ſhould be inflicted upon <hi>William Pendred,</hi> Gent. <hi>James Freeſe,</hi> Merchant, and others, as <hi>malicious ſlanderers,</hi> (meer<g ref="char:EOLhyphen"/>ly for proſecuting Mr <hi>Speakers Treacheries</hi> on behalf of the <hi>Commonwealth,</hi> in obedience to the <hi>Ordinances</hi> and <hi>Declarations of the Parliament;)</hi> But the ſaid <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> never met in Order thereunto, whereby M. <hi>Speaker</hi> (ever ſince the ſaid 15. of <hi>Septemb.</hi> 1645.) hath ſtood undeſervedly juſtified; and the innocent proſecu<g ref="char:EOLhyphen"/>tors and witneſſes been diſgracefully and unjuſtly abuſed, for proſecuting againſt the ſaid <hi>Speaker</hi> theſe enſuing <hi>Treacheries; Viz.</hi>
+            </p>
+            <p n="1">1. That the ſaid <hi>William Lenthal</hi> did combine with Sir <hi>John Lenthal,</hi> in maintaining and protecting ſeveral <hi>Spies</hi> and <hi>Agents</hi> for the late <hi>King,</hi> within the <hi>Lines of Communication,</hi> during the late <hi>Wars.</hi>
+            </p>
+            <p n="2">2. That the ſaid <hi>William Lenthal</hi> did combine with Sir <hi>John Lenthal,</hi> in conveying divers remarkable <hi>Priſoners at War</hi> out of the <hi>Line of Communication</hi> unto the late <hi>King.</hi>
+            </p>
+            <p n="3">3. That the ſaid <hi>William Lenthal</hi> did combine with Sir <hi>John Lenthal,</hi> in aſſiſting and protecting ſeveral <hi>Plotters,</hi> on the behalf of the late <hi>King,</hi> to deſtroy the <hi>City</hi> of <hi>London.</hi>
+            </p>
+            <p n="4">4. That the ſaid <hi>William Lenthal</hi> did combine with Sir <hi>John Lenthal,</hi> in ſending <hi>Horſes for War,</hi> with <hi>Men</hi> and <hi>Arms,</hi> to the late <hi>King.</hi>
+            </p>
+            <p n="5">5. That the ſaid <hi>William Lenthal</hi> did wittingly and wilfully ſuffer above 30000 <hi>l.</hi> to be conveyed out of the <hi>Line of Communication</hi> unto the late <hi>King.</hi>
+            </p>
+            <p n="6">6. That the ſaid <hi>William Lenthal</hi> did hold an intercourſe of <hi>Letters</hi> with the late <hi>King.</hi>
+            </p>
+            <p n="7">7. That the ſaid <hi>William Lenthal</hi> did combine with Sir <hi>John Lenthal,</hi> in keeping an <hi>Agent</hi> in the <hi>Gariſon</hi> of <hi>Oxford</hi> to expedite the fore-going Treacheries.</p>
+            <p n="8">8. That the ſaid <hi>William Lenthal</hi> did combine with <hi>Laurence Whitaker,</hi> 
+               <abbr>Eſq</abbr> and many other members of the <hi>Parliament,</hi> (ſome lately excluded, ſome now in the Houſe) to conceal and ſmother the foregoing <hi>Treacheries.</hi>
+            </p>
+            <p n="9">9. That the ſaid <hi>William Lenthal</hi> did combine with <hi>Laurence Whitaker,</hi> 
+               <abbr>Eſq</abbr> and others, in endeavoring to take away the <hi>Lives and Liberties</hi> of ſeveral of the <hi>Pro<g ref="char:EOLhyphen"/>ſecutors and Witneſſes</hi> unto the foregoing <hi>Treacheries.</hi>
+            </p>
+            <p n="10">10. That the ſaid <hi>William Lenthal</hi> did combine with <hi>Henry Wollaſton,</hi> the Goaler of <hi>Newgate, London,</hi> in releaſing three <hi>Prieſts</hi> and <hi>Ieſuites</hi> out of <hi>Newgate,</hi> by his <hi>warrant,</hi> about the 20. of <hi>August,</hi> 1646.</p>
+            <p>Theſe two laſt <hi>Articles</hi> were not in queſtion before the ſaid <hi>Committee for Examinations,</hi> but were acted ſince by M. <hi>Speaker,</hi> which ſhews his <hi>perſeverance</hi> in <hi>Treachery</hi> againſt the <hi>State:</hi> All which foregoing <hi>Treacheries</hi> were lately printed and publiſhed, by my <hi>procurement,</hi> and with the conſent of Col. <hi>George Cook,</hi> un<g ref="char:EOLhyphen"/>der the notion of <hi>Ten Articles already proved upon Oath againſt an Evil Member now in Parliament.</hi>
+            </p>
+            <p n="2">2. That <hi>His Excellency</hi> the <hi>Lord General FAIRFAX,</hi> and <hi>his General Councel of Officers,</hi> did about <hi>Novemb.</hi> 1648. declare, That the <hi>Reſolution</hi> of the whole <hi>Army</hi> was, to b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing all <hi>Fomentors, Contrivers,</hi> and <hi>Actors</hi> in the late <hi>Wars</hi> unto ſpeedy <hi>exemplary Iuſtice:</hi> And for that end, upon the firſt of <hi>Ianuary,</hi> 1648. (Lieutenant General <hi>Cromwel</hi> being <hi>Preſident)</hi> did appoint a <hi>Committee of the Army</hi> for examination of all <hi>diſcoveries</hi> of <hi>criminal Offenders</hi> in relation to the late <hi>Wars:</hi> Unto which <hi>Committee</hi> a <hi>Petition,</hi> with ſeveral <hi>Articles of Treaſon, wilful Murder,</hi> and neer fourty particulars of abſolute <hi>Felony,</hi> charged upon the aforeſaid <hi>Henry Wollaſton,</hi> was referred by the <hi>General Councel of the Army,</hi> and upon <hi>examination</hi> of the ſaid <hi>Articles</hi> againſt <hi>Wollaſton,</hi> M. <hi>Speakers warrant</hi> for the releaſe of the three <hi>Priests and Ieſuites</hi> out of <hi>Newgate (viz. Edmond Cole, Philip Morgan,</hi> and <hi>Iohn Wright,)</hi> was prod<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ced by the ſaid <hi>Wollaſton;</hi> upon ſight and de<g ref="char:EOLhyphen"/>bate whereof, Col. <hi>Cook,</hi> and others of the ſaid <hi>Committee,</hi> did adviſe, aſſiſt, and encourage <hi>Hannah Ienks,</hi> my wife, from time to time, for many moneths together, in the bringing to light M. <hi>Speakers notorious Treacheries.</hi>
+            </p>
+            <p n="3">3. That above twenty <hi>Depoſitions</hi> of <hi>ſufficient Witneſſes</hi> (ſome of the <hi>Common Councel,</hi> and others of the <hi>City</hi> of <hi>London,</hi> beſides many <hi>material witneſſes,</hi> who could not be examined by reaſon of the late diſperſing of the <hi>Army)</hi> were taken by the ſaid <hi>Committee,</hi> and did clearly prove Mr <hi>Speakers</hi> aforeſaid <hi>Treacheries,</hi> and the ſmothering thereof by the <hi>falſe Report</hi> of the ſaid <hi>Laurence Whitaker;</hi> And that Col. <hi>Cook,</hi> with ſeveral other Colonels of the ſaid <hi>Committee,</hi> did declare unto neer fourty <hi>Common Councel men,</hi> and others, of this <hi>City</hi> of <hi>London,</hi> that the foregoing <hi>Treacheries</hi> were clearly proved upon <hi>Oath;</hi> and the reaſon why they did ſo declare themſelves, was, That a buſineſs of ſuch <hi>eminent concernment</hi> might not be ſmothered by any <hi>treacherous policy</hi> or <hi>power</hi> whatſoever.</p>
+            <p n="4">4. That the aforeſaid <hi>Depoſitions</hi> were delivered upon the 26. of <hi>Iuly,</hi> 1649. unto the <hi>Iudg Advocate of the Army,</hi> who is one of the <hi>Commiſſioners</hi> appointed by his <hi>Excellency</hi> to make ſome further progreſs in the buſineſs. But the ſaid <hi>Commiſſioners</hi> do labor to enſnare the <hi>Proſecutors, Witneſſes,</hi> and their <hi>aſſiſtants,</hi> and to queſti<g ref="char:EOLhyphen"/>on them for proſecuting the aforeſaid <hi>Treacheries</hi> againſt M. <hi>Speaker,</hi> on behalf of the <hi>Commonwealth,</hi> as though they intend to ſmother M. <hi>Speakers Treacheries</hi> (clearly proved upon <hi>Oath</hi> by the aforeſaid <hi>Depoſitions,)</hi> and to aſperſe and abuſe the <hi>Proſecutors</hi> and <hi>Witneſſes</hi> for declaring the <hi>truth,</hi> in obedience to the <hi>commands</hi> of the ſaid <hi>Committee of the Army:</hi> All this, notwithſtanding that <hi>Solemn Covenant,</hi> which the <hi>Parliament</hi> forced the <hi>People</hi> to take in the preſence of <hi>Almighty God,</hi> binding them to diſcover all <hi>Incendiaries</hi> and <hi>evil inſtruments,</hi> and endeavor, as much as in them lay, to bring them to <hi>publique tryal,</hi> and zealouſly to aſſiſt one ano<g ref="char:EOLhyphen"/>ther therein againſt all <hi>oppoſition.</hi> Theſe are <hi>proceedings</hi> which the very <hi>Heathen</hi> would abhor, and which are quite contrary to the late ſolemn and great <hi>Declaration of the Army;</hi> and which (if perſiſted in by the ſaid <hi>Commiſſioners,</hi> and not diſclaimed by <hi>his Excellency</hi> at an immediate <hi>Councel of Officers)</hi> will moſt aſſuredly bring an <hi>odium</hi> upon his <hi>Excellency</hi> and the <hi>Army,</hi> beſides, expoſe them to the <hi>juſt cenſure</hi> of being <hi>inconſtant to their principles, faithleſs to their pretences,</hi> and <hi>countenancers of Treacheries and Injuſtice.</hi>
+            </p>
+            <p n="5">5. It is more then probable, that whatſoever M. <hi>Speaker</hi> hath acted with the <hi>Army,</hi> hath been meerly out of deſign to deſtroy them, and make the <hi>Parliament</hi> odi<g ref="char:EOLhyphen"/>ous, in regard he hath ſo betrayed his <hi>Truſt</hi> in his <hi>eminent Offices (viz.</hi> of being <hi>Speaker of the Houſe of Commons, Maſter of the Roles,</hi> and late <hi>Commiſſioner of the great Seal of England,)</hi> as that above one hundred <hi>Articles</hi> of <hi>notorious Treacheries and Injuſtice</hi> are ready to be exhibited againſt him by my ſelf, and others, unto ſuch <hi>Commiſſioners</hi> as the <hi>Parliament</hi> ſhall appoint for the <hi>free and publique tryal thereof.</hi>
+            </p>
+            <p n="6">6. That M. <hi>Speaker</hi> hath many <hi>hypocritical</hi> and <hi>ſubtile Agents,</hi> who go from perſon to perſon, from place to place, to hinder M. <hi>Speakers Treacheries and Injuſtice</hi> from being brought unto a publique <hi>Tryal;</hi> which <hi>Agents</hi> do affright ſome people with M. <hi>Speakers power and greatneſs,</hi> ſeduce others by <hi>large rewards and promiſes,</hi> and delude others with <hi>fallacious and ſpecious pretences;</hi> whereas <hi>(through the aſſiſtance of Almighty God)</hi> I doubt not but to make it appear at a <hi>publique tryal,</hi> that Mr <hi>Speaker</hi> hath acted the part of a dangerous <hi>Agent</hi> for the <hi>Pope,</hi> and for the late <hi>King,</hi> during theſe <hi>unnatural, cruel, and bloody Wars.</hi>
+            </p>
+            <p>Therefore I do hereby remonſtrate and declare, That it is the duty of all the <hi>People of England,</hi> both <hi>Souldiers</hi> and others, in every <hi>City</hi> and <hi>Country,</hi> more eſpeci<g ref="char:EOLhyphen"/>ally in and about this <hi>City</hi> of <hi>London,</hi> upon ſight hereof, with all poſſible ſpeed, to move the <hi>Parliament</hi> with <hi>importunate Petitions</hi> to appoint <hi>Commiſſioners</hi> for the ſpeedy <hi>publique tryal</hi> of the aforeſaid <hi>Treacheries</hi> againſt M. <hi>Speaker,</hi> either for his <hi>vindication</hi> or <hi>condemnation.</hi>
+            </p>
+            <p>And I do likewiſe declare, That I am confident that no <hi>well-affected perſon</hi> whatſoever will dare, directly or indirectly, to oppoſe the aforeſaid <hi>publique tryal:</hi> But will forthwith ſtir up all his <hi>friends</hi> and <hi>neighbors</hi> to ſecond <hi>this my Remonſtrance</hi> with ſuch <hi>vigour</hi> and <hi>reſolution,</hi> as becometh a <hi>free Commoner of England</hi> in ſo <hi>publick and equitable a matter.</hi> And that whoſoever doth <hi>ſolicite</hi> any Member of the <hi>Parliament, Army, Councel of State,</hi> or <hi>Commonwealth,</hi> to ſuppreſs or hinder the <hi>pub<g ref="char:EOLhyphen"/>lique tryal</hi> of his the ſaid <hi>M. Speakers Treacheries,</hi> may hereby aſſure himſelf, that he will be looked upon as a mercenary <hi>Judas,</hi> a friend to the <hi>ſons of Belial,</hi> an enemy to the <hi>God of Iuſtice,</hi> and to the <hi>future ſafety</hi> of this <hi>languiſhing divided Nation.</hi>
+            </p>
+            <p>Laſtly, I profeſs before God and man, That I am moved to declare theſe things out of no <hi>Self-end,</hi> or <hi>intereſt</hi> whatſoever, but out of a deſire to diſcharge a good con<g ref="char:EOLhyphen"/>ſcience and a zeal to promote the <hi>good</hi> and <hi>welfare</hi> of my <hi>Country.</hi>
+            </p>
+            <epigraph>
+               <q>
+                  <p>Eccleſ. 8. 11. Becauſe Iuſtice is not ſpeedily executed upon an evil work, therefore the hearts of the ſons of men are fully ſet in them to do evil.</p>
+                  <p>Prov. 28. 15. As a roaring Lion, and a raging Bear, ſo is a wicked Ruler over the poor People.</p>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>Your Faithful Servant,
+<hi>Edw: Jenkes.</hi>
+               </signed>
+               <dateline>London, <date>Aug. 4. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
